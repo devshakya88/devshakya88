@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
-<h1 align="center">Hi 👋, I'm Pankaj Singh Bisht</h1>
+<h1 align="center">Hi 👋, I'm Devender Shakya</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=700&height=50">
 </p>
@@ -50,7 +50,7 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
 
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=devshakya883&theme=radical&border_radius=2.7&show_icons=true" alt="devshakya88" />
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=devshakya88&theme=radical&border_radius=2.7&show_icons=true" alt="devshakya88" />
 
   
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devshakya88&theme=radical&border_radius=2.7" alt="pankaj singh GitHub Contribution"/>
