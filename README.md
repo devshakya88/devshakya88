@@ -84,4 +84,4 @@
         <img src="https://img.shields.io/github/followers/devshakya88?label=Followers&style=social" alt="GitHub Badge">
     </a>
     <hr />
-    <h2><a href="https://devshakya883.github.io">🌍 | Portfolio </a></h2>
+    <h2><a href="https://devshakya88.github.io">🌍 | Portfolio </a></h2>
