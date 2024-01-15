@@ -1,5 +1,5 @@
 <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
-<h1 align="center">Hi 👋, I'm Devender Shakya</h1>
+<h1 align="center">Hi 👋, I'm Pankaj Singh Bisht</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20MERN%20Developer;&center=true&width=700&height=50">
 </p>
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning *React.js node.js and Database*
 
-- 👨‍💻 All of my projects are available at 
+- 👨‍💻 All of my projects are available at [https://devshakya88.github.io/](https://devshakya88.github.io)
 
 - 💬 Ask me about *React.js Node.js HTML CSS JavaScript & JAVA*
 
 - 📫 How to reach me *devshakya88@gmail.com*
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1wJR0Tkq0IKhXL6Jo2JnxdbrEBrPQBQ0Y/view?usp=sharing">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1s5NSF8OzDjexXvByK8FHkAcyidkT5aLG/view?usp=sharing">Resume</a>
 
 
 
@@ -50,7 +50,38 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap;">
 
-<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=devshakya88&theme=radical&border_radius=2.7&show_icons=true" alt="devender-shakya" />
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=devshakya883&theme=radical&border_radius=2.7&show_icons=true" alt="devshakya88" />
 
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devshakya88&theme=radical&border_radius=2.7" alt="devshakya88 GitHub Contribution"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devshakya88&theme=radical&border_radius=2.7" alt="pankaj singh GitHub Contribution"/>
+  
+
+  
+<img width="425px" height="200px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devshakya88&theme=radical&date_format=M%20j%5B%2C%20Y%5D&border_radius=2.7" alt="devshakya88" />
+  
+<img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devshakya88&theme=radical&border_radius=2.7" alt="devshakya88" />
+  
+</div>
+
+<h2>🌍 Connect with me :</h2>
+   <p align="left">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pankaj-singh-bisht-3abb4525a/" target="blank">
+            <img align="center"
+                src="https://img.icons8.com/3d-fluency/94/linkedin.png"
+                alt="https://www.linkedin.com/in/devender-shakya/" width="40px" />
+        </a>
+        <a href="https://github.com/devshakya88" target="blank">
+            <img align="center"
+                src="https://img.icons8.com/3d-fluency/94/github.png"
+                alt="https://github.com/devshakya88" width="40px"/>
+        </a>
+    </p>
+    <h2>❤ Views and Followers :</h2>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/devshakya88/github-profile-views-counter">
+        <img src="https://komarev.com/ghpvc/?username=devshakya88" >
+    </a>
+    <a href="https://github.com/devshakya88?tab=followers">
+        <img src="https://img.shields.io/github/followers/devshakya88?label=Followers&style=social" alt="GitHub Badge">
+    </a>
+    <hr />
+    <h2><a href="https://devshakya883.github.io">🌍 | Portfolio </a></h2>
