@@ -53,7 +53,7 @@
 <img width="400px" height="200px" align="center" src="https://github-readme-stats.vercel.app/api?username=devshakya88&theme=radical&border_radius=2.7&show_icons=true" alt="devshakya88" />
 
   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devshakya88&theme=radical&border_radius=2.7" alt="devshakya88 GitHub Contribution"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=devshakya88&theme=radical&border_radius=2.7" alt="devender shakya GitHub Contribution"/>
   
 
   
@@ -65,7 +65,7 @@
 
 <h2>🌍 Connect with me :</h2>
    <p align="left">
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/pankaj-singh-bisht-3abb4525a/" target="blank">
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/devender-shakya/" target="blank">
             <img align="center"
                 src="https://img.icons8.com/3d-fluency/94/linkedin.png"
                 alt="https://www.linkedin.com/in/devender-shakya/" width="40px" />
